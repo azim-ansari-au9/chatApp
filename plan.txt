@@ -1,0 +1,19 @@
+TODO List
+
+1. cerate npm project
+
+2. cretae Index, Css ,Js file
+
+3. install dependencies express, nodemon(dev dep.)
+
+4. Create Express Server(server.Js)
+
+5. Do front end part
+
+6. Install socket.io, Setup Socket.io in server.js and client client.js
+
+7. Client send message logic in client.js
+
+8. Recieve message in server and broadcast to all client
+
+9. Recieve message on clientand display it 
