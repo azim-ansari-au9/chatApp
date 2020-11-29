@@ -37,7 +37,7 @@ body{
 
 .message__area {
     height: 500px;
-    padding: 16px;
+    padding: 26px;
     display: flex;
     flex-direction: column;
     overflow-y: auto;
@@ -54,7 +54,7 @@ textarea {
 
 }
 .message {
-    padding: 20px;
+    padding: 15px;
     border-radius: 4px;
     margin-bottom: 40px;
     max-width: 300px;
@@ -62,12 +62,12 @@ textarea {
 }
 
 .incoming {
-    background: #8f8f8f;
+    background: #f8f5f500;
     color: seashell;
 }
 .outgoing {
-    background: snow;
-    color: rgb(99, 91, 99);
+    background: rgb(243, 243, 243);
+    color: rgb(13, 14, 10);
     margin-left: auto;
 }
 .message h4 {
